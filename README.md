@@ -1,1 +1,1 @@
-# Kaggle_Solutions_-_Writeups
+# Kaggle Solutions and Writeups
